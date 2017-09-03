@@ -1,0 +1,9 @@
+Random generation of coorfinates using LFSR and vertex mapping using OpenGL(glfw).
+
+GLFW installation is needed:
+http://www.glfw.org/docs/latest/quick_guide.html
+
+Tested on Ubuntu 16, "make" in Debug folder to build.
+
+Run and pass X and Y arguments.
+Ex: ./random_fade 400 200
